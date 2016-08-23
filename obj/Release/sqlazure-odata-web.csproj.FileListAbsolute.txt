@@ -1,0 +1,1 @@
+C:\sources\lahman_webservice\obj\Release\sqlazure-odata-web.csprojResolveAssemblyReference.cache
